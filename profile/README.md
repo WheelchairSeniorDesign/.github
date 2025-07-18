@@ -1,4 +1,9 @@
-# How to use Git
+# Biometric Autonomous Droid (BAD)
+The goal of this ECE Senior Design Project was to design, build, and pilot an autonomous robot capable of navigating a single-floor indoor setting and transporting patients. The robot is able to transport the elderly and those who live with disabilities such as Multiple Sclerosis (MS) or chronic conditions that impair mobility, and help them navigate hospital floors. With the proposed Biometric Autonomous Droid (BAD-2024) system, our design group aims to improve patient self-sufficiency while addressing and improving healthcare staff efficiency, allowing for personalized patient care management. The final design features a chair for the user and seat belt, a joystick for navigation, a 24V battery, two motors and motor controllers, a comprehensive sensor system, biometric technology, self-driving capability, and an interactive user interface. The BAD-2024 system is intended for indoor use only. [Link to project website](https://sites.lafayette.edu/ece491-1-fa24/)
+
+This GitHub contains all of the repositories for the code and PCB CAD files used in the BAD.
+
+# How to use Git (For Team Members)
 
 ## Git Setup
 
